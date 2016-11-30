@@ -1,0 +1,14 @@
+{
+    "name": "ruogoo/pusher",
+    "description": "Push component for ruogoo.",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "illuminate/support": "^5.3"
+    }
+}
